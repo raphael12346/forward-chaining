@@ -1,12 +1,12 @@
 # CSci 144 - Intelligent Systems | Coursework 2
-### Forward Chaining System Documentation
+## Forward Chaining System Documentation
 
-## Overview
+### Overview
 
 This Python script implements a simple Forward Chaining System with a graphical user interface (GUI) using Tkinter. The system allows users to input facts and rules, perform forward chaining inference, and view the resulting facts.
 
 
-## Usage
+### Usage
 
 1. Run the script (forward_chaining_gui.py).
 2. Enter facts and rules using the GUI.
@@ -14,7 +14,7 @@ This Python script implements a simple Forward Chaining System with a graphical 
 4. View the generated facts and new facts in the text area.
 
 
-## Note: 
+### Note: 
 
 "if A and B, then C" - this format won't work, i have to fix this.
 use this format instead,
