@@ -8,7 +8,7 @@ This Python script implements a simple Forward Chaining System with a graphical 
 
 ### Usage
 
-1. Run the script (forward_chaining_gui.py).
+1. Run the script (forward_chaining.py).
 2. Enter facts and rules using the GUI.
 3. Click "Generate Facts" to perform forward chaining.
 4. View the generated facts and new facts in the text area.
