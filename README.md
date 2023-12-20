@@ -16,7 +16,6 @@ This Python script implements a simple Forward Chaining System with a graphical 
 
 ### Note: 
 
-"if A and B, then C" - this format won't work, i have to fix this.
-use this format instead,
-"A and B, C"
+- "if A and B, then C" - this format won't work, i have to fix this.
+- use this format instead, "A and B, C"
 
